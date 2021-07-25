@@ -82,7 +82,7 @@
   color: var(--White);
   justify-content: center;
   margin-top: 70px;
-  font-size: 20px;
+  font-size: 2em;
   text-align: center;
   font-family: "Fraunces", serif;
   text-transform: uppercase;
@@ -103,11 +103,11 @@
 
 .section__contenido {
   text-align: left;
-  padding: 3rem;
+  padding: 2rem 3rem;
 }
 .section__title {
   padding: 40px 0;
-  font-size: 25px;
+  font-size: 39px;
   font-weight: 900;
   font-family: "Fraunces", serif;
 }
@@ -116,7 +116,7 @@
   font-size: 15px;
   line-height: 2em;
   font-family: "Barlow", serif;
-  color: var(--Dark-blue);
+  color: var(--Grayish-blue);
 }
 .section__img {
   display: block;
@@ -163,7 +163,7 @@
 
 .section__contenido--stand {
   text-align: left;
-  padding: 3rem;
+  padding: 2rem 3rem;
 }
 
 .section__img--stand {
@@ -472,7 +472,6 @@
 @media screen and (max-width:408px){
 
     .text__header{
-        font-size:18px;
         text-align: center;
     }
     .footer__links{
