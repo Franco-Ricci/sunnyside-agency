@@ -395,8 +395,9 @@
 
   .container__links {
       position:absolute;
-      top:36px;
-      right:17px;
+      top:54px;
+      right:28px;
+      margin:0 auto;
       visibility:hidden;
     }
   .mostrar{
